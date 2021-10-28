@@ -3,7 +3,6 @@
 - 🔭 Atualmente trabalhando como Fullstack Developer
 - 📚 Bacharelando em Sistemas de Informação na Faculdade Impacta de Tecnologia
 - 📫 contate-me no e-mail: franklin@blufr.tech | franklincassiano@gmail.com
-- 😄 Pronomes: ele/dele/he/him
 
 <div>
   <a href="https://github.com/guimaraesfranklin">
