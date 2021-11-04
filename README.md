@@ -1,6 +1,6 @@
 ## E aí, eu sou o Franklin! :)
 
-- 🔭 Atualmente trabalhando como Fullstack Developer
+- 🔭 Atualmente trabalhando como Fullstack Developer & Owner na Blufr
 - 📚 Bacharelando em Sistemas de Informação na Faculdade Impacta de Tecnologia
 - 📫 Contate-me no e-mail: franklin@blufr.tech | franklincassiano@gmail.com
 
