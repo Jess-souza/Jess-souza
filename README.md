@@ -1,7 +1,7 @@
-## Olá, eu sou a Jessica! :blush:
+## Olá, eu sou a Jéssica! :blush: :sparkles:
 ### Bem vindo ao meu perfil GitHub
 
-- 🔭 Atualmente estou em transição de carreira, trabalho no Rh da C&A Modas, estou em busca de novos conhecimentos e aberta a oportunidades
+Sou uma profissional da área de saude e segurança do trabalho, atuando no time da C&A Modas. Encantada pelo universo da tecnologia, estou em processo de transição de carreira, buscando novos conhecimentos oportunidades. 
 - :books:  Bacharelando em Engenharia de Produção na Universidade Estácio de Sá
 - :mailbox_with_mail:  Contate-me no e-mail: jsouzasouza120@gmail.com
 
