@@ -14,10 +14,10 @@ Sou uma profissional da área de saude e segurança do trabalho, atuando no time
 ## Linguagens mais utilizadas
 <div style="display: inline_block">
   <img align="center" alt="Jessica-Java" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Jessica-PHP" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Jessica-HTML" title="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Jessica-CSS" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Jessica-Js" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Jessica-C#" title="C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg">
 </div>
   
 ## Frameworks e Bibliotecas
