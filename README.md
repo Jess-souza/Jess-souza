@@ -23,7 +23,7 @@
 ## Frameworks e Bibliotecas
 <div style="display: inline_block">
   <img align="center" alt="Jessica-Spring" title="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" />
+  <img lign="center"alt="Jessica-Spring" title="Spring" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" />
   </div>
   
 ## Bases de Dados
