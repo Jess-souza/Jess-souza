@@ -1,5 +1,5 @@
-## Olá, eu sou a Jéssica! :blush: :sparkles:
-### Bem vindo ao meu perfil GitHub
+## Olá, eu sou a Jéssica!  :heart_eyes: :sparkles:
+### Bem vindo ao meu perfil GitHub 
 
 Sou uma profissional da área de saude e segurança do trabalho, atuando no time da C&A Modas. Encantada pelo universo da tecnologia, estou em processo de transição de carreira, buscando novos conhecimentos oportunidades. 
 - :books:  Bacharelando em Engenharia de Produção na Universidade Estácio de Sá
